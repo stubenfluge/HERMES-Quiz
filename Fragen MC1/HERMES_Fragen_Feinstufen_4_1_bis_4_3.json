@@ -1,0 +1,112 @@
+[
+  {
+    "frage": "Was ist ein Entscheidungspunkt im HERMES-Projektmanagement?",
+    "antworten": [
+      "A) Ein definierter Zeitpunkt für ein Teammeeting",
+      "B) Ein optionaler Berichtspunkt im Projekt",
+      "C) Ein fixer Termin zur Überprüfung der Projektqualität",
+      "D) Ein vordefinierter Moment, an dem über das weitere Vorgehen entschieden wird"
+    ],
+    "korrekt": "D",
+    "seite": "S. 55, Kapitel 3.7 Entscheidungspunkte"
+  },
+  {
+    "frage": "Wofür dient ein Entscheidungspunkt im HERMES-Modell?",
+    "antworten": [
+      "A) Zur Aufgabenverteilung innerhalb des Projektteams",
+      "B) Zur Information der Auftraggeber über das Projektbudget",
+      "C) Zur Steuerung des Projekts durch kontrollierte Freigabe von Phasen",
+      "D) Zur Projektbeendigung nach jeder Phase"
+    ],
+    "korrekt": "C",
+    "seite": "S. 55, Kapitel 3.7 Entscheidungspunkte"
+  },
+  {
+    "frage": "Welche Rolle ist für die Genehmigung eines Entscheidungspunkts im HERMES-Projekt zuständig?",
+    "antworten": [
+      "A) Projektleiter",
+      "B) Auftraggeber",
+      "C) Anwendervertreter",
+      "D) Modulverantwortlicher"
+    ],
+    "korrekt": "B",
+    "seite": "S. 55, Kapitel 3.7 Entscheidungspunkte"
+  },
+  {
+    "frage": "Was ist ein wesentliches Ziel der Entscheidungspunkte in HERMES?",
+    "antworten": [
+      "A) Aufgabenverteilung zu verbessern",
+      "B) Projektstart zu verzögern",
+      "C) Die Qualität der Ergebnisse zu kontrollieren",
+      "D) Projektbudget freizugeben"
+    ],
+    "korrekt": "C",
+    "seite": "S. 56, Kapitel 3.7 Entscheidungspunkte"
+  },
+  {
+    "frage": "Was versteht man unter Steuerungselementen im HERMES-Kontext?",
+    "antworten": [
+      "A) Vorgaben für das Controlling",
+      "B) Werkzeuge zur projektinternen Kommunikation",
+      "C) Elemente zur Planung, Überwachung und Steuerung des Projekts",
+      "D) IT-Systeme zur Ressourcenverwaltung"
+    ],
+    "korrekt": "C",
+    "seite": "S. 58, Kapitel 3.8 Steuerungselemente"
+  },
+  {
+    "frage": "Wie wirken Steuerungselemente in einem HERMES-Projekt?",
+    "antworten": [
+      "A) Sie beeinflussen den Budgetrahmen direkt",
+      "B) Sie definieren Zuständigkeiten im Projektteam",
+      "C) Sie ermöglichen eine strukturierte Projektführung durch Planungs- und Kontrollinstrumente",
+      "D) Sie regeln die Vergabe von Unteraufträgen"
+    ],
+    "korrekt": "C",
+    "seite": "S. 58, Kapitel 3.8 Steuerungselemente"
+  },
+  {
+    "frage": "Welche Aussage beschreibt die Bedeutung der Steuerungselemente am besten?",
+    "antworten": [
+      "A) Sie strukturieren das Team",
+      "B) Sie sind Bestandteil der Phase Initialisierung",
+      "C) Sie sind zentrale Werkzeuge zur Projektplanung und -überwachung",
+      "D) Sie ersetzen die Rollenbeschreibung"
+    ],
+    "korrekt": "C",
+    "seite": "S. 58, Kapitel 3.8 Steuerungselemente"
+  },
+  {
+    "frage": "Worauf basieren die Entscheidungen an Entscheidungspunkten?",
+    "antworten": [
+      "A) Auf der Anzahl der geleisteten Arbeitsstunden",
+      "B) Auf der Genehmigung durch externe Gutachter",
+      "C) Auf überprüften Ergebnissen und Kriterien der vorhergehenden Phase",
+      "D) Auf der Meinung des Projektleiters"
+    ],
+    "korrekt": "C",
+    "seite": "S. 56, Kapitel 3.7 Entscheidungspunkte"
+  },
+  {
+    "frage": "Welche Steuerungselemente werden im HERMES-Handbuch besonders hervorgehoben?",
+    "antworten": [
+      "A) Kommunikationsstrategie und Change Requests",
+      "B) Projektplan, Risikomanagement und Projektreporting",
+      "C) Rollenbeschreibung und IT-Dokumentation",
+      "D) Projektergebnisse und Budget"
+    ],
+    "korrekt": "B",
+    "seite": "S. 58, Kapitel 3.8 Steuerungselemente"
+  },
+  {
+    "frage": "Wie helfen Steuerungselemente bei der Projekttransparenz?",
+    "antworten": [
+      "A) Sie zeigen Projektkosten im Zeitverlauf auf",
+      "B) Sie dienen der strategischen Personalplanung",
+      "C) Sie ermöglichen nachvollziehbare Entscheidungen und Statusinformationen",
+      "D) Sie dokumentieren technische Spezifikationen"
+    ],
+    "korrekt": "C",
+    "seite": "S. 58, Kapitel 3.8 Steuerungselemente"
+  }
+]

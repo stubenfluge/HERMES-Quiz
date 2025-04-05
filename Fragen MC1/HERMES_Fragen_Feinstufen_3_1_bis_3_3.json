@@ -1,0 +1,112 @@
+[
+  {
+    "frage": "Was ist das Ziel des Phasenmodells im HERMES-Projektmanagement?",
+    "antworten": [
+      "A) Projektrollen festzulegen",
+      "B) Ein lineares Modell für IT-Projekte zu beschreiben",
+      "C) Den Projektablauf in nachvollziehbare Abschnitte zu gliedern",
+      "D) Die Projektkosten zu optimieren"
+    ],
+    "korrekt": "C",
+    "seite": "S. 42, Kapitel 3.1 Phasenmodell"
+  },
+  {
+    "frage": "Welche Aussage beschreibt die Initialisierungsphase im HERMES-Modell am besten?",
+    "antworten": [
+      "A) Es wird ein Konzept für die Lösung entwickelt",
+      "B) Die Betriebsorganisation übernimmt die Lösung",
+      "C) Das Projekt wird gestartet und der Auftrag wird erteilt",
+      "D) Die Aufgaben der Betriebsorganisation werden definiert"
+    ],
+    "korrekt": "C",
+    "seite": "S. 44, Kapitel 3.2 Initialisierungsphase"
+  },
+  {
+    "frage": "Welche Phase umfasst die Konkretisierung der Lösung und die Beschaffungsstrategie?",
+    "antworten": [
+      "A) Abschlussphase",
+      "B) Konzeptphase",
+      "C) Initialisierungsphase",
+      "D) Einführungsphase"
+    ],
+    "korrekt": "B",
+    "seite": "S. 46, Kapitel 3.3 Konzeptphase"
+  },
+  {
+    "frage": "Was wird typischerweise in der Konzeptphase erstellt?",
+    "antworten": [
+      "A) Der Projektabschlussbericht",
+      "B) Die Projekteinführungsstrategie",
+      "C) Das Grobkonzept und die Beschaffungsvorbereitung",
+      "D) Der operative Umsetzungsplan"
+    ],
+    "korrekt": "C",
+    "seite": "S. 46, Kapitel 3.3 Konzeptphase"
+  },
+  {
+    "frage": "Welche Rolle spielt die Initialisierungsphase im Projektverlauf?",
+    "antworten": [
+      "A) Die Lösung wird integriert",
+      "B) Die Lösung wird getestet",
+      "C) Die Projektidee wird konkretisiert und geprüft",
+      "D) Das Grobkonzept wird umgesetzt"
+    ],
+    "korrekt": "C",
+    "seite": "S. 44, Kapitel 3.2 Initialisierungsphase"
+  },
+  {
+    "frage": "Welche Phasen sind Bestandteil des HERMES-Projektlebenszyklus?",
+    "antworten": [
+      "A) Planung, Durchführung, Abschluss",
+      "B) Initialisierung, Konzept, Realisierung, Einführung, Abschluss",
+      "C) Analyse, Umsetzung, Evaluation",
+      "D) Design, Integration, Deployment"
+    ],
+    "korrekt": "B",
+    "seite": "S. 42, Kapitel 3.1 Phasenmodell"
+  },
+  {
+    "frage": "Welche Entscheidung wird am Ende der Initialisierungsphase getroffen?",
+    "antworten": [
+      "A) Auswahl des Szenarios",
+      "B) Auftragserteilung für das Projekt",
+      "C) Entwicklung des Business Case",
+      "D) Genehmigung des Abschlussberichts"
+    ],
+    "korrekt": "B",
+    "seite": "S. 44, Kapitel 3.2 Initialisierungsphase"
+  },
+  {
+    "frage": "Was ist ein wesentliches Ergebnis der Konzeptphase?",
+    "antworten": [
+      "A) Abnahme der Lösung",
+      "B) Erstellung des Umsetzungsplans",
+      "C) Verabschiedung des Betriebsmodells",
+      "D) Verabschiedung des Grobkonzepts"
+    ],
+    "korrekt": "D",
+    "seite": "S. 46, Kapitel 3.3 Konzeptphase"
+  },
+  {
+    "frage": "Welche Phase beinhaltet die Prüfung der Umsetzbarkeit der Projektidee?",
+    "antworten": [
+      "A) Konzeptphase",
+      "B) Initialisierungsphase",
+      "C) Einführungsphase",
+      "D) Abschlussphase"
+    ],
+    "korrekt": "B",
+    "seite": "S. 44, Kapitel 3.2 Initialisierungsphase"
+  },
+  {
+    "frage": "Wofür dient das Phasenmodell insbesondere im Projektverlauf?",
+    "antworten": [
+      "A) Zur Rollenbeschreibung",
+      "B) Zur Ableitung der Budgetplanung",
+      "C) Zur Strukturierung des Projektablaufs und der Steuerung",
+      "D) Zur Durchführung externer Audits"
+    ],
+    "korrekt": "C",
+    "seite": "S. 42, Kapitel 3.1 Phasenmodell"
+  }
+]

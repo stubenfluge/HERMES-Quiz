@@ -1,0 +1,134 @@
+[
+  {
+    "frage": "Wann eignet sich der Einsatz der HERMES-Projektmanagementmethode besonders?",
+    "antworten": [
+      "A) Für das Management von täglichen Routinetätigkeiten",
+      "B) Für langfristige Betriebsaufgaben",
+      "C) Für die strukturierte Durchführung von Projekten",
+      "D) Für spontane Einzelentscheidungen"
+    ],
+    "korrekt": "C",
+    "seite": "S. 8, Kapitel A.2 Was ist HERMES-Projektmanagement?"
+  },
+  {
+    "frage": "Welche der folgenden Aussagen beschreibt die drei obersten Methodenelemente von HERMES korrekt?",
+    "antworten": [
+      "A) Projektmanagement, Qualitätsmanagement, Innovationsmanagement",
+      "B) Risikomanagement, Portfoliomanagement, Projektmanagement",
+      "C) Portfoliomanagement, Projektmanagement, Anwendungsmanagement",
+      "D) Anforderungsmanagement, Projektmanagement, Prozessmanagement"
+    ],
+    "korrekt": "C",
+    "seite": "S. 10, Kapitel A.2 Was ist HERMES-Projektmanagement?"
+  },
+  {
+    "frage": "Was ist das Ziel des HERMES-Phasenmodells?",
+    "antworten": [
+      "A) Die Projektdokumentation möglichst umfangreich zu gestalten",
+      "B) Den Projektstart unabhängig von externen Faktoren zu ermöglichen",
+      "C) Eine gemeinsame Struktur und Verständnis für den Projektablauf zu schaffen",
+      "D) Möglichst viele Rollen zu definieren"
+    ],
+    "korrekt": "C",
+    "seite": "S. 17, Kapitel 1.1.1 Projektlebenszyklus"
+  },
+  {
+    "frage": "Was kennzeichnet die Meilensteine im HERMES-Phasenmodell?",
+    "antworten": [
+      "A) Sie markieren den Projektstart",
+      "B) Sie definieren Verantwortlichkeiten",
+      "C) Sie sind Ergebnisse, an denen über das weitere Vorgehen entschieden wird",
+      "D) Sie betreffen ausschließlich die Abschlussphase"
+    ],
+    "korrekt": "C",
+    "seite": "S. 20, Kapitel 1.2.2 Einheitliche Projektstruktur"
+  },
+  {
+    "frage": "Wozu dienen die Methodenelemente Ergebnisse und Aufgaben in HERMES?",
+    "antworten": [
+      "A) Zur Schulung der Projektbeteiligten",
+      "B) Zur Bestimmung der Projektkosten",
+      "C) Zur strukturierten Erarbeitung und Dokumentation von Projektinhalten",
+      "D) Zur Abbildung der Governance-Struktur"
+    ],
+    "korrekt": "C",
+    "seite": "S. 14, Kapitel B.4 Ergebnisse"
+  },
+  {
+    "frage": "Welche Aussage trifft auf das Methodenelement 'Module' zu?",
+    "antworten": [
+      "A) Module dienen nur in agilen Projekten als Steuerungsinstrument",
+      "B) Module sind Vorlagen für die Abschlussphase",
+      "C) Module bestehen aus Ergebnissen und den dazugehörigen Aufgaben",
+      "D) Module ersetzen die Rollen im Projekt"
+    ],
+    "korrekt": "C",
+    "seite": "S. 13, Kapitel B.3 Module"
+  },
+  {
+    "frage": "Welche Rollen müssen in jedem HERMES-Projekt mindestens besetzt werden?",
+    "antworten": [
+      "A) Projektleiter, Anwendervertreter, Finanzverantwortlicher",
+      "B) Auftraggeber, Projektleiter, Anwendervertreter",
+      "C) Qualitätsverantwortlicher, Entwickler, Tester",
+      "D) Portfoliomanager, Anwendungsmanager, Kommunikationsverantwortlicher"
+    ],
+    "korrekt": "B",
+    "seite": "S. 15, Kapitel B.6 Rollen"
+  },
+  {
+    "frage": "Wofür steht das Methodenelement 'Szenarien' im HERMES-Projektmanagement?",
+    "antworten": [
+      "A) Für die Beschreibung von Risiken",
+      "B) Für die Zusammenstellung von Modulen für spezifische Projektarten",
+      "C) Für den Zeitplan eines Projekts",
+      "D) Für die Darstellung der Projektkosten"
+    ],
+    "korrekt": "B",
+    "seite": "S. 12, Kapitel B.2 Szenarien"
+  },
+  {
+    "frage": "Welche Aussage über den Einsatz von Szenarien im Projektlebenszyklus ist korrekt?",
+    "antworten": [
+      "A) Szenarien werden erst nach Projektabschluss ausgewählt",
+      "B) Szenarien gelten nur für agile Projekte",
+      "C) Szenarien werden zu Beginn in der Initialisierungsphase ausgewählt",
+      "D) Szenarien ersetzen das Projektmanagement"
+    ],
+    "korrekt": "C",
+    "seite": "S. 13, Kapitel B.2 Szenarien"
+  },
+  {
+    "frage": "Welche Aussage beschreibt den Zweck des Kapitels 'Hinweise zur Anwendung' am besten?",
+    "antworten": [
+      "A) Es beschreibt die Entwicklungsgeschichte von HERMES",
+      "B) Es listet Projektarten auf, bei denen HERMES nicht angewendet werden kann",
+      "C) Es bietet vertiefte methodische Hinweise für spezielle Situationen und Anforderungen",
+      "D) Es ersetzt die Rollenbeschreibungen"
+    ],
+    "korrekt": "C",
+    "seite": "S. 11, Kapitel A.8 Hinweise zur Anwendung"
+  },
+  {
+    "frage": "Was ist ein wesentliches Ziel der 'Hinweise zur Anwendung' im HERMES-Handbuch?",
+    "antworten": [
+      "A) Sie regeln die IT-Infrastruktur",
+      "B) Sie helfen, Interpretationsspielräume zu reduzieren",
+      "C) Sie ersetzen das Big Picture",
+      "D) Sie definieren Projektkosten"
+    ],
+    "korrekt": "B",
+    "seite": "S. 11, Kapitel A.8 Hinweise zur Anwendung"
+  },
+  {
+    "frage": "Was verdeutlicht das Big Picture (Ergebnisdiagramm) im HERMES-Projektmanagement?",
+    "antworten": [
+      "A) Es zeigt nur die Aufgaben des Projektleiters",
+      "B) Es stellt alle Rollen in einer Stammorganisation dar",
+      "C) Es veranschaulicht die Module entlang der Phasen sowie deren Ergebnisse",
+      "D) Es dient nur der agilen Projektsteuerung"
+    ],
+    "korrekt": "C",
+    "seite": "S. 7, Kapitel A.1 Big Picture"
+  }
+]

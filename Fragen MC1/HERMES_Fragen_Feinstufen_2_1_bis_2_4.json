@@ -1,0 +1,90 @@
+[
+  {
+    "frage": "Was beschreibt ein Szenario im HERMES-Projektmanagement?",
+    "antworten": [
+      "A) Ein hypothetisches Risiko im Projekt",
+      "B) Eine Zusammenstellung von Modulen für spezifische Projekttypen",
+      "C) Eine alternative Projektplanung",
+      "D) Eine zeitliche Gliederung der Aufgaben"
+    ],
+    "korrekt": "B",
+    "seite": "S. 25, Kapitel 2.2 Szenarien"
+  },
+  {
+    "frage": "Wofür dient die Auswahl eines HERMES-Szenarios im Projekt?",
+    "antworten": [
+      "A) Zur Definition des Projektbudgets",
+      "B) Zur Auswahl der Projektleitung",
+      "C) Zur Vordefinition einer geeigneten Modulkombination",
+      "D) Zur Planung der Personalressourcen"
+    ],
+    "korrekt": "C",
+    "seite": "S. 26, Kapitel 2.2 Szenarien"
+  },
+  {
+    "frage": "Was kennzeichnet ein Modul im HERMES-Projektmanagement?",
+    "antworten": [
+      "A) Es definiert Rollen und Zuständigkeiten",
+      "B) Es legt das Projektbudget fest",
+      "C) Es umfasst ein Set von Aufgaben und Ergebnissen für ein Themengebiet",
+      "D) Es ist ein optionales Element ohne strukturierende Funktion"
+    ],
+    "korrekt": "C",
+    "seite": "S. 28, Kapitel 2.3 Module"
+  },
+  {
+    "frage": "Wie werden Module im HERMES-Projekt eingesetzt?",
+    "antworten": [
+      "A) Sie ersetzen die Szenarien",
+      "B) Sie werden unabhängig von Szenarien ausgewählt",
+      "C) Sie sind Bestandteil eines Szenarios und passen sich der Projektart an",
+      "D) Sie beschreiben externe Risiken"
+    ],
+    "korrekt": "C",
+    "seite": "S. 28, Kapitel 2.3 Module"
+  },
+  {
+    "frage": "Welche Aussage trifft auf HERMES-Aufgaben zu?",
+    "antworten": [
+      "A) Sie sind einzelnen Rollen zugeordnet und führen zu konkreten Ergebnissen",
+      "B) Sie stellen ein Instrument der Finanzierung dar",
+      "C) Sie bilden die Grundlage für die Beschaffung",
+      "D) Sie sind nur in der Abschlussphase von Bedeutung"
+    ],
+    "korrekt": "A",
+    "seite": "S. 31, Kapitel 2.4 Aufgaben"
+  },
+  {
+    "frage": "Wie verhalten sich Aufgaben und Ergebnisse zueinander in HERMES?",
+    "antworten": [
+      "A) Aufgaben ersetzen Ergebnisse",
+      "B) Ergebnisse entstehen unabhängig von Aufgaben",
+      "C) Aufgaben führen zu definierten Ergebnissen",
+      "D) Aufgaben und Ergebnisse sind identisch"
+    ],
+    "korrekt": "C",
+    "seite": "S. 31, Kapitel 2.4 Aufgaben"
+  },
+  {
+    "frage": "Was erleichtert die Anwendung der Aufgaben im HERMES-Projekt?",
+    "antworten": [
+      "A) Ihre lose Verknüpfung mit Modulen",
+      "B) Ihre Zuordnung zu Rollen und Ergebnissen",
+      "C) Ihre Definition durch das Projektbudget",
+      "D) Ihre Abhängigkeit von der Organisation"
+    ],
+    "korrekt": "B",
+    "seite": "S. 31, Kapitel 2.4 Aufgaben"
+  },
+  {
+    "frage": "Welche Elemente sind in einem HERMES-Modul typischerweise enthalten?",
+    "antworten": [
+      "A) Rollenbeschreibung und Risikoplan",
+      "B) Aufgaben, Ergebnisse und deren Zuordnung zu Rollen",
+      "C) Zeitplan und Kommunikationsstrategie",
+      "D) Projektabschlussbericht und Review-Protokoll"
+    ],
+    "korrekt": "B",
+    "seite": "S. 28, Kapitel 2.3 Module"
+  }
+]

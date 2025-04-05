@@ -1,0 +1,454 @@
+[
+  {
+    "meta": "===== BEGINN Feinstufen_1_1_bis_1_9 ====="
+  },
+  {
+    "frage": "Wann eignet sich der Einsatz der HERMES-Projektmanagementmethode besonders?",
+    "antworten": [
+      "A) Für das Management von täglichen Routinetätigkeiten",
+      "B) Für langfristige Betriebsaufgaben",
+      "C) Für die strukturierte Durchführung von Projekten",
+      "D) Für spontane Einzelentscheidungen"
+    ],
+    "korrekt": "C",
+    "seite": "S. 8, Kapitel A.2 Was ist HERMES-Projektmanagement?"
+  },
+  {
+    "frage": "Welche der folgenden Aussagen beschreibt die drei obersten Methodenelemente von HERMES korrekt?",
+    "antworten": [
+      "A) Projektmanagement, Qualitätsmanagement, Innovationsmanagement",
+      "B) Risikomanagement, Portfoliomanagement, Projektmanagement",
+      "C) Portfoliomanagement, Projektmanagement, Anwendungsmanagement",
+      "D) Anforderungsmanagement, Projektmanagement, Prozessmanagement"
+    ],
+    "korrekt": "C",
+    "seite": "S. 10, Kapitel A.2 Was ist HERMES-Projektmanagement?"
+  },
+  {
+    "frage": "Was ist das Ziel des HERMES-Phasenmodells?",
+    "antworten": [
+      "A) Die Projektdokumentation möglichst umfangreich zu gestalten",
+      "B) Den Projektstart unabhängig von externen Faktoren zu ermöglichen",
+      "C) Eine gemeinsame Struktur und Verständnis für den Projektablauf zu schaffen",
+      "D) Möglichst viele Rollen zu definieren"
+    ],
+    "korrekt": "C",
+    "seite": "S. 17, Kapitel 1.1.1 Projektlebenszyklus"
+  },
+  {
+    "frage": "Was kennzeichnet die Meilensteine im HERMES-Phasenmodell?",
+    "antworten": [
+      "A) Sie markieren den Projektstart",
+      "B) Sie definieren Verantwortlichkeiten",
+      "C) Sie sind Ergebnisse, an denen über das weitere Vorgehen entschieden wird",
+      "D) Sie betreffen ausschließlich die Abschlussphase"
+    ],
+    "korrekt": "C",
+    "seite": "S. 20, Kapitel 1.2.2 Einheitliche Projektstruktur"
+  },
+  {
+    "frage": "Wozu dienen die Methodenelemente Ergebnisse und Aufgaben in HERMES?",
+    "antworten": [
+      "A) Zur Schulung der Projektbeteiligten",
+      "B) Zur Bestimmung der Projektkosten",
+      "C) Zur strukturierten Erarbeitung und Dokumentation von Projektinhalten",
+      "D) Zur Abbildung der Governance-Struktur"
+    ],
+    "korrekt": "C",
+    "seite": "S. 14, Kapitel B.4 Ergebnisse"
+  },
+  {
+    "frage": "Welche Aussage trifft auf das Methodenelement 'Module' zu?",
+    "antworten": [
+      "A) Module dienen nur in agilen Projekten als Steuerungsinstrument",
+      "B) Module sind Vorlagen für die Abschlussphase",
+      "C) Module bestehen aus Ergebnissen und den dazugehörigen Aufgaben",
+      "D) Module ersetzen die Rollen im Projekt"
+    ],
+    "korrekt": "C",
+    "seite": "S. 13, Kapitel B.3 Module"
+  },
+  {
+    "frage": "Welche Rollen müssen in jedem HERMES-Projekt mindestens besetzt werden?",
+    "antworten": [
+      "A) Projektleiter, Anwendervertreter, Finanzverantwortlicher",
+      "B) Auftraggeber, Projektleiter, Anwendervertreter",
+      "C) Qualitätsverantwortlicher, Entwickler, Tester",
+      "D) Portfoliomanager, Anwendungsmanager, Kommunikationsverantwortlicher"
+    ],
+    "korrekt": "B",
+    "seite": "S. 15, Kapitel B.6 Rollen"
+  },
+  {
+    "frage": "Wofür steht das Methodenelement 'Szenarien' im HERMES-Projektmanagement?",
+    "antworten": [
+      "A) Für die Beschreibung von Risiken",
+      "B) Für die Zusammenstellung von Modulen für spezifische Projektarten",
+      "C) Für den Zeitplan eines Projekts",
+      "D) Für die Darstellung der Projektkosten"
+    ],
+    "korrekt": "B",
+    "seite": "S. 12, Kapitel B.2 Szenarien"
+  },
+  {
+    "frage": "Welche Aussage über den Einsatz von Szenarien im Projektlebenszyklus ist korrekt?",
+    "antworten": [
+      "A) Szenarien werden erst nach Projektabschluss ausgewählt",
+      "B) Szenarien gelten nur für agile Projekte",
+      "C) Szenarien werden zu Beginn in der Initialisierungsphase ausgewählt",
+      "D) Szenarien ersetzen das Projektmanagement"
+    ],
+    "korrekt": "C",
+    "seite": "S. 13, Kapitel B.2 Szenarien"
+  },
+  {
+    "frage": "Welche Aussage beschreibt den Zweck des Kapitels 'Hinweise zur Anwendung' am besten?",
+    "antworten": [
+      "A) Es beschreibt die Entwicklungsgeschichte von HERMES",
+      "B) Es listet Projektarten auf, bei denen HERMES nicht angewendet werden kann",
+      "C) Es bietet vertiefte methodische Hinweise für spezielle Situationen und Anforderungen",
+      "D) Es ersetzt die Rollenbeschreibungen"
+    ],
+    "korrekt": "C",
+    "seite": "S. 11, Kapitel A.8 Hinweise zur Anwendung"
+  },
+  {
+    "frage": "Was ist ein wesentliches Ziel der 'Hinweise zur Anwendung' im HERMES-Handbuch?",
+    "antworten": [
+      "A) Sie regeln die IT-Infrastruktur",
+      "B) Sie helfen, Interpretationsspielräume zu reduzieren",
+      "C) Sie ersetzen das Big Picture",
+      "D) Sie definieren Projektkosten"
+    ],
+    "korrekt": "B",
+    "seite": "S. 11, Kapitel A.8 Hinweise zur Anwendung"
+  },
+  {
+    "frage": "Was verdeutlicht das Big Picture (Ergebnisdiagramm) im HERMES-Projektmanagement?",
+    "antworten": [
+      "A) Es zeigt nur die Aufgaben des Projektleiters",
+      "B) Es stellt alle Rollen in einer Stammorganisation dar",
+      "C) Es veranschaulicht die Module entlang der Phasen sowie deren Ergebnisse",
+      "D) Es dient nur der agilen Projektsteuerung"
+    ],
+    "korrekt": "C",
+    "seite": "S. 7, Kapitel A.1 Big Picture"
+  },
+  {
+    "meta": "===== BEGINN Feinstufen_2_1_bis_2_4 ====="
+  },
+  {
+    "frage": "Was beschreibt ein Szenario im HERMES-Projektmanagement?",
+    "antworten": [
+      "A) Ein hypothetisches Risiko im Projekt",
+      "B) Eine Zusammenstellung von Modulen für spezifische Projekttypen",
+      "C) Eine alternative Projektplanung",
+      "D) Eine zeitliche Gliederung der Aufgaben"
+    ],
+    "korrekt": "B",
+    "seite": "S. 25, Kapitel 2.2 Szenarien"
+  },
+  {
+    "frage": "Wofür dient die Auswahl eines HERMES-Szenarios im Projekt?",
+    "antworten": [
+      "A) Zur Definition des Projektbudgets",
+      "B) Zur Auswahl der Projektleitung",
+      "C) Zur Vordefinition einer geeigneten Modulkombination",
+      "D) Zur Planung der Personalressourcen"
+    ],
+    "korrekt": "C",
+    "seite": "S. 26, Kapitel 2.2 Szenarien"
+  },
+  {
+    "frage": "Was kennzeichnet ein Modul im HERMES-Projektmanagement?",
+    "antworten": [
+      "A) Es definiert Rollen und Zuständigkeiten",
+      "B) Es legt das Projektbudget fest",
+      "C) Es umfasst ein Set von Aufgaben und Ergebnissen für ein Themengebiet",
+      "D) Es ist ein optionales Element ohne strukturierende Funktion"
+    ],
+    "korrekt": "C",
+    "seite": "S. 28, Kapitel 2.3 Module"
+  },
+  {
+    "frage": "Wie werden Module im HERMES-Projekt eingesetzt?",
+    "antworten": [
+      "A) Sie ersetzen die Szenarien",
+      "B) Sie werden unabhängig von Szenarien ausgewählt",
+      "C) Sie sind Bestandteil eines Szenarios und passen sich der Projektart an",
+      "D) Sie beschreiben externe Risiken"
+    ],
+    "korrekt": "C",
+    "seite": "S. 28, Kapitel 2.3 Module"
+  },
+  {
+    "frage": "Welche Aussage trifft auf HERMES-Aufgaben zu?",
+    "antworten": [
+      "A) Sie sind einzelnen Rollen zugeordnet und führen zu konkreten Ergebnissen",
+      "B) Sie stellen ein Instrument der Finanzierung dar",
+      "C) Sie bilden die Grundlage für die Beschaffung",
+      "D) Sie sind nur in der Abschlussphase von Bedeutung"
+    ],
+    "korrekt": "A",
+    "seite": "S. 31, Kapitel 2.4 Aufgaben"
+  },
+  {
+    "frage": "Wie verhalten sich Aufgaben und Ergebnisse zueinander in HERMES?",
+    "antworten": [
+      "A) Aufgaben ersetzen Ergebnisse",
+      "B) Ergebnisse entstehen unabhängig von Aufgaben",
+      "C) Aufgaben führen zu definierten Ergebnissen",
+      "D) Aufgaben und Ergebnisse sind identisch"
+    ],
+    "korrekt": "C",
+    "seite": "S. 31, Kapitel 2.4 Aufgaben"
+  },
+  {
+    "frage": "Was erleichtert die Anwendung der Aufgaben im HERMES-Projekt?",
+    "antworten": [
+      "A) Ihre lose Verknüpfung mit Modulen",
+      "B) Ihre Zuordnung zu Rollen und Ergebnissen",
+      "C) Ihre Definition durch das Projektbudget",
+      "D) Ihre Abhängigkeit von der Organisation"
+    ],
+    "korrekt": "B",
+    "seite": "S. 31, Kapitel 2.4 Aufgaben"
+  },
+  {
+    "frage": "Welche Elemente sind in einem HERMES-Modul typischerweise enthalten?",
+    "antworten": [
+      "A) Rollenbeschreibung und Risikoplan",
+      "B) Aufgaben, Ergebnisse und deren Zuordnung zu Rollen",
+      "C) Zeitplan und Kommunikationsstrategie",
+      "D) Projektabschlussbericht und Review-Protokoll"
+    ],
+    "korrekt": "B",
+    "seite": "S. 28, Kapitel 2.3 Module"
+  },
+  {
+    "meta": "===== BEGINN Feinstufen_3_1_bis_3_3 ====="
+  },
+  {
+    "frage": "Was ist das Ziel des Phasenmodells im HERMES-Projektmanagement?",
+    "antworten": [
+      "A) Projektrollen festzulegen",
+      "B) Ein lineares Modell für IT-Projekte zu beschreiben",
+      "C) Den Projektablauf in nachvollziehbare Abschnitte zu gliedern",
+      "D) Die Projektkosten zu optimieren"
+    ],
+    "korrekt": "C",
+    "seite": "S. 42, Kapitel 3.1 Phasenmodell"
+  },
+  {
+    "frage": "Welche Aussage beschreibt die Initialisierungsphase im HERMES-Modell am besten?",
+    "antworten": [
+      "A) Es wird ein Konzept für die Lösung entwickelt",
+      "B) Die Betriebsorganisation übernimmt die Lösung",
+      "C) Das Projekt wird gestartet und der Auftrag wird erteilt",
+      "D) Die Aufgaben der Betriebsorganisation werden definiert"
+    ],
+    "korrekt": "C",
+    "seite": "S. 44, Kapitel 3.2 Initialisierungsphase"
+  },
+  {
+    "frage": "Welche Phase umfasst die Konkretisierung der Lösung und die Beschaffungsstrategie?",
+    "antworten": [
+      "A) Abschlussphase",
+      "B) Konzeptphase",
+      "C) Initialisierungsphase",
+      "D) Einführungsphase"
+    ],
+    "korrekt": "B",
+    "seite": "S. 46, Kapitel 3.3 Konzeptphase"
+  },
+  {
+    "frage": "Was wird typischerweise in der Konzeptphase erstellt?",
+    "antworten": [
+      "A) Der Projektabschlussbericht",
+      "B) Die Projekteinführungsstrategie",
+      "C) Das Grobkonzept und die Beschaffungsvorbereitung",
+      "D) Der operative Umsetzungsplan"
+    ],
+    "korrekt": "C",
+    "seite": "S. 46, Kapitel 3.3 Konzeptphase"
+  },
+  {
+    "frage": "Welche Rolle spielt die Initialisierungsphase im Projektverlauf?",
+    "antworten": [
+      "A) Die Lösung wird integriert",
+      "B) Die Lösung wird getestet",
+      "C) Die Projektidee wird konkretisiert und geprüft",
+      "D) Das Grobkonzept wird umgesetzt"
+    ],
+    "korrekt": "C",
+    "seite": "S. 44, Kapitel 3.2 Initialisierungsphase"
+  },
+  {
+    "frage": "Welche Phasen sind Bestandteil des HERMES-Projektlebenszyklus?",
+    "antworten": [
+      "A) Planung, Durchführung, Abschluss",
+      "B) Initialisierung, Konzept, Realisierung, Einführung, Abschluss",
+      "C) Analyse, Umsetzung, Evaluation",
+      "D) Design, Integration, Deployment"
+    ],
+    "korrekt": "B",
+    "seite": "S. 42, Kapitel 3.1 Phasenmodell"
+  },
+  {
+    "frage": "Welche Entscheidung wird am Ende der Initialisierungsphase getroffen?",
+    "antworten": [
+      "A) Auswahl des Szenarios",
+      "B) Auftragserteilung für das Projekt",
+      "C) Entwicklung des Business Case",
+      "D) Genehmigung des Abschlussberichts"
+    ],
+    "korrekt": "B",
+    "seite": "S. 44, Kapitel 3.2 Initialisierungsphase"
+  },
+  {
+    "frage": "Was ist ein wesentliches Ergebnis der Konzeptphase?",
+    "antworten": [
+      "A) Abnahme der Lösung",
+      "B) Erstellung des Umsetzungsplans",
+      "C) Verabschiedung des Betriebsmodells",
+      "D) Verabschiedung des Grobkonzepts"
+    ],
+    "korrekt": "D",
+    "seite": "S. 46, Kapitel 3.3 Konzeptphase"
+  },
+  {
+    "frage": "Welche Phase beinhaltet die Prüfung der Umsetzbarkeit der Projektidee?",
+    "antworten": [
+      "A) Konzeptphase",
+      "B) Initialisierungsphase",
+      "C) Einführungsphase",
+      "D) Abschlussphase"
+    ],
+    "korrekt": "B",
+    "seite": "S. 44, Kapitel 3.2 Initialisierungsphase"
+  },
+  {
+    "frage": "Wofür dient das Phasenmodell insbesondere im Projektverlauf?",
+    "antworten": [
+      "A) Zur Rollenbeschreibung",
+      "B) Zur Ableitung der Budgetplanung",
+      "C) Zur Strukturierung des Projektablaufs und der Steuerung",
+      "D) Zur Durchführung externer Audits"
+    ],
+    "korrekt": "C",
+    "seite": "S. 42, Kapitel 3.1 Phasenmodell"
+  },
+  {
+    "meta": "===== BEGINN Feinstufen_4_1_bis_4_3 ====="
+  },
+  {
+    "frage": "Was ist ein Entscheidungspunkt im HERMES-Projektmanagement?",
+    "antworten": [
+      "A) Ein definierter Zeitpunkt für ein Teammeeting",
+      "B) Ein optionaler Berichtspunkt im Projekt",
+      "C) Ein fixer Termin zur Überprüfung der Projektqualität",
+      "D) Ein vordefinierter Moment, an dem über das weitere Vorgehen entschieden wird"
+    ],
+    "korrekt": "D",
+    "seite": "S. 55, Kapitel 3.7 Entscheidungspunkte"
+  },
+  {
+    "frage": "Wofür dient ein Entscheidungspunkt im HERMES-Modell?",
+    "antworten": [
+      "A) Zur Aufgabenverteilung innerhalb des Projektteams",
+      "B) Zur Information der Auftraggeber über das Projektbudget",
+      "C) Zur Steuerung des Projekts durch kontrollierte Freigabe von Phasen",
+      "D) Zur Projektbeendigung nach jeder Phase"
+    ],
+    "korrekt": "C",
+    "seite": "S. 55, Kapitel 3.7 Entscheidungspunkte"
+  },
+  {
+    "frage": "Welche Rolle ist für die Genehmigung eines Entscheidungspunkts im HERMES-Projekt zuständig?",
+    "antworten": [
+      "A) Projektleiter",
+      "B) Auftraggeber",
+      "C) Anwendervertreter",
+      "D) Modulverantwortlicher"
+    ],
+    "korrekt": "B",
+    "seite": "S. 55, Kapitel 3.7 Entscheidungspunkte"
+  },
+  {
+    "frage": "Was ist ein wesentliches Ziel der Entscheidungspunkte in HERMES?",
+    "antworten": [
+      "A) Aufgabenverteilung zu verbessern",
+      "B) Projektstart zu verzögern",
+      "C) Die Qualität der Ergebnisse zu kontrollieren",
+      "D) Projektbudget freizugeben"
+    ],
+    "korrekt": "C",
+    "seite": "S. 56, Kapitel 3.7 Entscheidungspunkte"
+  },
+  {
+    "frage": "Was versteht man unter Steuerungselementen im HERMES-Kontext?",
+    "antworten": [
+      "A) Vorgaben für das Controlling",
+      "B) Werkzeuge zur projektinternen Kommunikation",
+      "C) Elemente zur Planung, Überwachung und Steuerung des Projekts",
+      "D) IT-Systeme zur Ressourcenverwaltung"
+    ],
+    "korrekt": "C",
+    "seite": "S. 58, Kapitel 3.8 Steuerungselemente"
+  },
+  {
+    "frage": "Wie wirken Steuerungselemente in einem HERMES-Projekt?",
+    "antworten": [
+      "A) Sie beeinflussen den Budgetrahmen direkt",
+      "B) Sie definieren Zuständigkeiten im Projektteam",
+      "C) Sie ermöglichen eine strukturierte Projektführung durch Planungs- und Kontrollinstrumente",
+      "D) Sie regeln die Vergabe von Unteraufträgen"
+    ],
+    "korrekt": "C",
+    "seite": "S. 58, Kapitel 3.8 Steuerungselemente"
+  },
+  {
+    "frage": "Welche Aussage beschreibt die Bedeutung der Steuerungselemente am besten?",
+    "antworten": [
+      "A) Sie strukturieren das Team",
+      "B) Sie sind Bestandteil der Phase Initialisierung",
+      "C) Sie sind zentrale Werkzeuge zur Projektplanung und -überwachung",
+      "D) Sie ersetzen die Rollenbeschreibung"
+    ],
+    "korrekt": "C",
+    "seite": "S. 58, Kapitel 3.8 Steuerungselemente"
+  },
+  {
+    "frage": "Worauf basieren die Entscheidungen an Entscheidungspunkten?",
+    "antworten": [
+      "A) Auf der Anzahl der geleisteten Arbeitsstunden",
+      "B) Auf der Genehmigung durch externe Gutachter",
+      "C) Auf überprüften Ergebnissen und Kriterien der vorhergehenden Phase",
+      "D) Auf der Meinung des Projektleiters"
+    ],
+    "korrekt": "C",
+    "seite": "S. 56, Kapitel 3.7 Entscheidungspunkte"
+  },
+  {
+    "frage": "Welche Steuerungselemente werden im HERMES-Handbuch besonders hervorgehoben?",
+    "antworten": [
+      "A) Kommunikationsstrategie und Change Requests",
+      "B) Projektplan, Risikomanagement und Projektreporting",
+      "C) Rollenbeschreibung und IT-Dokumentation",
+      "D) Projektergebnisse und Budget"
+    ],
+    "korrekt": "B",
+    "seite": "S. 58, Kapitel 3.8 Steuerungselemente"
+  },
+  {
+    "frage": "Wie helfen Steuerungselemente bei der Projekttransparenz?",
+    "antworten": [
+      "A) Sie zeigen Projektkosten im Zeitverlauf auf",
+      "B) Sie dienen der strategischen Personalplanung",
+      "C) Sie ermöglichen nachvollziehbare Entscheidungen und Statusinformationen",
+      "D) Sie dokumentieren technische Spezifikationen"
+    ],
+    "korrekt": "C",
+    "seite": "S. 58, Kapitel 3.8 Steuerungselemente"
+  }
+]

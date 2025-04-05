@@ -1,0 +1,193 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>HERMES-Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 2rem;
+      background: url('LampBackground.png') no-repeat center center fixed;
+      background-size: cover;
+      color: #000;
+    }
+    .container {
+      background: rgba(255, 255, 255, 0.9);
+      padding: 2rem;
+      border-radius: 12px;
+      max-width: 800px;
+      margin: auto;
+    }
+    .question {
+      display: none;
+    }
+    .question.active {
+      display: block;
+    }
+    .answers {
+      margin-top: 1rem;
+    }
+    .answers label {
+      display: block;
+      margin-bottom: 0.75rem;
+      padding: 0.5rem;
+      background: #f5f5f5;
+      border-radius: 6px;
+    }
+    button {
+      margin: 1rem 0.5rem 0 0;
+      padding: 0.5rem 1rem;
+    }
+    #quiz-result {
+      font-weight: bold;
+      margin-top: 2rem;
+    }
+    .feedback-item {
+      margin-top: 1rem;
+      padding-top: 0.5rem;
+      border-top: 1px solid #ccc;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>HERMES-Quiz</h1>
+    <form id="quizForm"></form>
+    <div>
+      <button type="button" onclick="prevQuestion()">Zurück</button>
+      <button type="button" onclick="nextQuestion()">Weiter</button>
+      <button type="button" onclick="submitQuiz()">Auswertung anzeigen</button>
+    </div>
+    <div id="quiz-result"></div>
+    <div id="feedback-list"></div>
+  </div>
+
+  <script>
+    let fragen = [];
+    let current = 0;
+
+    fetch('hermes_fragen.json')
+      .then(res => res.json())
+      .then(data => {
+        
+    
+    fragen = data.filter(q => !q.meta);
+    for (let i = fragen.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [fragen[i], fragen[j]] = [fragen[j], fragen[i]];
+    }
+    
+    for (let i = fragen.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [fragen[i], fragen[j]] = [fragen[j], fragen[i]];
+    }
+    
+        renderQuestions();
+        showQuestion(current);
+      });
+
+    function renderQuestions() {
+      const form = document.getElementById('quizForm');
+      fragen.forEach((f, index) => {
+        const div = document.createElement('div');
+        div.className = 'question';
+        div.id = 'q' + index;
+
+        const html = '<h3>' + (index + 1) + '. ' + f.frage + '</h3><div class="answers">' +
+          f.antworten.map((a, i) => `
+            <label><input type="radio"  name="q${index}" value="${a.charAt(0)}"> ${a}</label>
+          `).join('') + '</div>';
+        div.innerHTML = html;
+        form.appendChild(div);
+      });
+    }
+
+    
+    function showQuestion(index) {
+      const nextBtn = document.querySelector("button[onclick='nextQuestion()']");
+      if (index === fragen.length - 1) {
+        nextBtn.disabled = true;
+      } else {
+        nextBtn.disabled = false;
+      }
+    
+      document.querySelectorAll('.question').forEach(el => el.classList.remove('active'));
+      document.getElementById('q' + index).classList.add('active');
+    }
+
+    function nextQuestion() {
+      if (current < fragen.length - 1) {
+        current++;
+        showQuestion(current);
+      }
+    }
+
+    function prevQuestion() {
+      if (current > 0) {
+        current--;
+        showQuestion(current);
+      }
+    }
+
+    
+    function allAnswered() {
+      return fragen.every((_, i) =>
+        document.querySelector(`input[name='q${i}']:checked`)
+      );
+    }
+
+    function checkAutoSubmit() {
+      if (allAnswered()) {
+        submitQuiz();
+      }
+    }
+
+    function submitQuiz() {
+    
+      let correct = 0;
+      let feedback = [];
+
+      fragen.forEach((f, i) => {
+        const selected = document.querySelector(`input[name='q${i}']:checked`);
+        const answer = selected ? selected.value : null;
+        if (answer === f.korrekt) {
+          correct++;
+        } else {
+          const korrektText = f.antworten.find(a => a.startsWith(f.korrekt));
+          feedback.push({
+            frage: f.frage,
+            antwort: korrektText,
+            seite: f.seite
+          });
+        }
+      });
+
+      const resultEl = document.getElementById('quiz-result');
+      const feedbackList = document.getElementById('feedback-list');
+      const percent = Math.round((correct / fragen.length) * 100);
+
+      resultEl.innerHTML = `Du hast ${correct} von ${fragen.length} Fragen richtig beantwortet. (${percent}%)`;
+
+      feedbackList.innerHTML = "";
+      if (feedback.length > 0) {
+        const heading = document.createElement('p');
+        heading.innerHTML = '<strong>Hinweise zu falsch beantworteten Fragen:</strong>';
+        feedbackList.appendChild(heading);
+
+        feedback.forEach(fb => {
+          const div = document.createElement('div');
+          div.className = 'feedback-item';
+          div.innerHTML = `
+            <p><strong>Frage:</strong><br>${fb.frage}</p>
+            <p><strong>Richtige Antwort:</strong><br>${fb.antwort}</p>
+            <p><em>Hinweis: siehe Referenzhandbuch ${fb.seite}</em></p>
+          `;
+          feedbackList.appendChild(div);
+        });
+      }
+    }
+  </script>
+</body>
+</html>
